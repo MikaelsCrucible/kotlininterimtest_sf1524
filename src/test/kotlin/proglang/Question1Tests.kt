@@ -1,6 +1,5 @@
 package proglang
 
-/*
 import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertSame
@@ -252,4 +251,3 @@ class Question1Tests {
         assertEquals("((b / a) * b)! + (e - f) * 14", `((b div a) mul b)! + (e - f) mul 14`.toString())
     }
 }
-*/

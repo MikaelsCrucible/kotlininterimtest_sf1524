@@ -1,6 +1,5 @@
 package proglang
 
-/*
 import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertNull
@@ -282,4 +281,3 @@ private fun stmt5(): List<Stmt> {
     )
     return listOf(stmt5a)
 }
-*/
